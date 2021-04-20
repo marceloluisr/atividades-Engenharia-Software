@@ -1,6 +1,6 @@
 # Atividades-Engenharia-Software-2
 > Camada do Repositórios
-- [ ] Testes de validação com Bean Validation
+- [ ] Testes de todas as buscas no repositório
 - [ ] Testes de validação com Bean Validation
 > Camada dos Serviços
 - [x] Implementar o cadastro de um novo frete. Deverá ser lançado exceções caso não 
