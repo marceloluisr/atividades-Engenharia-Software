@@ -13,7 +13,7 @@ a cada cidade de destino.
 
 > Camada dos Controles
  
-Escreva um teste de integração para a classe FreteController. E crie testes para validar 
+- [x] Escreva um teste de integração para a classe FreteController. E crie testes para validar 
 as buscas, a inclusão, as exceções e a exclusão de fretes, você também pode criar outros 
 métodos de testes, caso necessário. 
 
